@@ -4,7 +4,7 @@ Full-stack Machine Learning Engineer, currently building intelligent and scalabl
 
 ### What I’m Working On
 - **GoriaAI** — an AI-powered academic ecosystem focused on learning, collaboration, and productivity  
-- **SendCore** — a developer-focused communication platform for sending **emails, SMS, and voice** through a unified API  
+- **Payfake** — a developer-focusedpayment simulator that mimics paystac
 
 ### Tech & Interests
 - React, Django, Golang  
