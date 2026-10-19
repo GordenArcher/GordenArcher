@@ -99,12 +99,6 @@ I'm open to collaborating on projects involving:
 
 ---
 
-## Connect
-
-[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/iam_Gorden)
-
----
-
 <p align="center">
   <i>Engineering is the art of turning complexity into systems that work.</i>
 </p>
